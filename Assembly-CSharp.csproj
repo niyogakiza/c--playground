@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Character.cs" />
      <Compile Include="Assets\Scripts\LearningCurve.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/aniyogakiza/projects/unityApp/unity/LearningCurve/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

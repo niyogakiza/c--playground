@@ -9,6 +9,7 @@ public class LearningCurve : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+      QuestPartyMembers();
       ItemInventory();
       AddNumbers();
       int characterLevel = 32;
@@ -35,6 +36,20 @@ public class LearningCurve : MonoBehaviour
       Debug.LogFormat("Characters: {0} - level: {1}", name, level);
     }
 
+    public void QuestPartyMembers()
+    {
+      List<string> questPartyMembers = new List<string>()
+        {"John", "Aimable", "Denis"};
+      for (int i = 0; i < questPartyMembers.Count; i++)
+      {
+        Debug.LogFormat("index: {0} - {1}", i, questPartyMembers[i] );
+        if (questPartyMembers[i] == "Aimable")
+        {
+          Debug.Log("Glad you are here!");
+        }
+      }
+    }
+
     public void AddNumbers ()
     {
       Debug.Log(firstNumber + secondNumber);
@@ -47,6 +62,11 @@ public class LearningCurve : MonoBehaviour
       Debug.Log(result);
       return result;
 
+    }
+    
+    public void PrintStatsInfo()
+    {
+      Debug.LogFormat("Hero: {0} - {1} EXP", name);
     }
 
 

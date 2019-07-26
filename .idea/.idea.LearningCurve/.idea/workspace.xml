@@ -278,6 +278,17 @@
       <change beforePath="$PROJECT_DIR$/../Cube/andorid.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cube/andorid.app/Contents/Resources/UnityPlayerIcon.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cube/andorid.app/Contents/Resources/unity default resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearningCurve/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearningCurve/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearningCurve/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearningCurve/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearningCurve/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearningCurve/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearningCurve/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearningCurve/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LearningCurve.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LearningCurve.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b9/b910ee6b263744b0d9e0bf50f42a8a5d" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b9/b910ee6b263744b0d9e0bf50f42a8a5d" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -286,22 +297,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LearningCurve.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+            <state relative-caret-position="157">
+              <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
               <folding>
-                <marker date="1564162044359" expanded="true" signature="6:78" ph="..." />
-                <marker date="1564162044359" expanded="true" signature="122:1238" ph="{...}" />
-                <marker date="1564162044359" expanded="true" signature="257:472" ph="{...}" />
-                <marker date="1564162044359" expanded="true" signature="505:749" ph="{...}" />
-                <marker date="1564162044359" expanded="true" signature="594:684" ph="{...}" />
-                <marker date="1564162044359" expanded="true" signature="810:890" ph="{...}" />
-                <marker date="1564162044359" expanded="true" signature="921:978" ph="{...}" />
-                <marker date="1564162044359" expanded="true" signature="1067:1156" ph="{...}" />
-                <marker date="1564162044359" expanded="true" signature="1215:1236" ph="{...}" />
+                <marker date="1564176853354" expanded="true" signature="6:78" ph="..." />
+                <marker date="1564176853354" expanded="true" signature="122:1752" ph="{...}" />
+                <marker date="1564176853354" expanded="true" signature="257:499" ph="{...}" />
+                <marker date="1564176853354" expanded="true" signature="532:763" ph="{...}" />
+                <marker date="1564176853354" expanded="true" signature="621:698" ph="{...}" />
+                <marker date="1564176853354" expanded="true" signature="824:904" ph="{...}" />
+                <marker date="1564176853354" expanded="true" signature="941:1302" ph="{...}" />
+                <marker date="1564176853354" expanded="true" signature="1099:1296" ph="{...}" />
+                <marker date="1564176853354" expanded="true" signature="1225:1288" ph="{...}" />
+                <marker date="1564176853354" expanded="true" signature="1333:1390" ph="{...}" />
+                <marker date="1564176853354" expanded="true" signature="1479:1568" ph="{...}" />
+                <marker date="1564176853354" expanded="true" signature="1606:1670" ph="{...}" />
+                <marker date="1564176853354" expanded="true" signature="1729:1750" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Character.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <folding>
+                <marker date="1564176829052" expanded="true" signature="6:78" ph="..." />
+                <marker date="1564176829052" expanded="true" signature="118:447" ph="{...}" />
+                <marker date="1564176829052" expanded="true" signature="190:287" ph="{...}" />
+                <marker date="1564176829052" expanded="true" signature="323:361" ph="{...}" />
+                <marker date="1564176829052" expanded="true" signature="424:445" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -310,14 +341,16 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Character.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LearningCurve.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Character.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LearningCurve.cs" />
       </list>
     </option>
@@ -334,11 +367,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -357,12 +387,21 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -379,17 +418,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
-    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="74244">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="74244" />
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="74244">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="74244" />
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
@@ -404,12 +443,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564160962906</updated>
-      <workItem from="1564160965409" duration="828000" />
+      <workItem from="1564160965409" duration="1863000" />
+      <workItem from="1564165580516" duration="1523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="828000" />
+    <option name="totallyTimeSpent" value="3386000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -424,27 +464,27 @@
     <frame x="20" y="27" width="1260" height="690" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39966556" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32943144" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" weight="0.32943144" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32943144" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" weight="0.32943144" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32943144" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,6 +492,46 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -463,20 +543,38 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Character.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <marker date="1564176829052" expanded="true" signature="6:78" ph="..." />
+            <marker date="1564176829052" expanded="true" signature="118:447" ph="{...}" />
+            <marker date="1564176829052" expanded="true" signature="190:287" ph="{...}" />
+            <marker date="1564176829052" expanded="true" signature="323:361" ph="{...}" />
+            <marker date="1564176829052" expanded="true" signature="424:445" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LearningCurve.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        <state relative-caret-position="157">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
           <folding>
-            <marker date="1564162044359" expanded="true" signature="6:78" ph="..." />
-            <marker date="1564162044359" expanded="true" signature="122:1238" ph="{...}" />
-            <marker date="1564162044359" expanded="true" signature="257:472" ph="{...}" />
-            <marker date="1564162044359" expanded="true" signature="505:749" ph="{...}" />
-            <marker date="1564162044359" expanded="true" signature="594:684" ph="{...}" />
-            <marker date="1564162044359" expanded="true" signature="810:890" ph="{...}" />
-            <marker date="1564162044359" expanded="true" signature="921:978" ph="{...}" />
-            <marker date="1564162044359" expanded="true" signature="1067:1156" ph="{...}" />
-            <marker date="1564162044359" expanded="true" signature="1215:1236" ph="{...}" />
+            <marker date="1564176853354" expanded="true" signature="6:78" ph="..." />
+            <marker date="1564176853354" expanded="true" signature="122:1752" ph="{...}" />
+            <marker date="1564176853354" expanded="true" signature="257:499" ph="{...}" />
+            <marker date="1564176853354" expanded="true" signature="532:763" ph="{...}" />
+            <marker date="1564176853354" expanded="true" signature="621:698" ph="{...}" />
+            <marker date="1564176853354" expanded="true" signature="824:904" ph="{...}" />
+            <marker date="1564176853354" expanded="true" signature="941:1302" ph="{...}" />
+            <marker date="1564176853354" expanded="true" signature="1099:1296" ph="{...}" />
+            <marker date="1564176853354" expanded="true" signature="1225:1288" ph="{...}" />
+            <marker date="1564176853354" expanded="true" signature="1333:1390" ph="{...}" />
+            <marker date="1564176853354" expanded="true" signature="1479:1568" ph="{...}" />
+            <marker date="1564176853354" expanded="true" signature="1606:1670" ph="{...}" />
+            <marker date="1564176853354" expanded="true" signature="1729:1750" ph="{...}" />
           </folding>
         </state>
       </provider>
